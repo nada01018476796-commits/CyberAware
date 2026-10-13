@@ -9,7 +9,6 @@ It only organizes reports. It does not scan messages or confirm that an attack h
 | File | What it is |
 |---|---|
 | `member1_incident_core.py` | The code: `Incident` class and `IncidentManager` |
-| `MEMBER1_DOCUMENTATION.md` | The rules, priority table, workflow diagrams, schema, and notes for the other members |
 | `README.md` | This file |
 
 ## What we used
